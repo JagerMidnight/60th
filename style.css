@@ -1,0 +1,11 @@
+.nav-list {
+  display: flex;
+  gap: 1rem;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
